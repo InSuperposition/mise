@@ -1,0 +1,5 @@
+[tools]
+java = "oracle-graalvm-24.0.1"
+node = "22"
+python = "3.12"
+rust = "stable"

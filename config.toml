@@ -1,4 +1,5 @@
 [tools]
+bun = "latest"
 clojure = "latest"
 java = "oracle-graalvm"
 node = "22"
